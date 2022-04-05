@@ -28,3 +28,7 @@
 Кастомная страница web2
 
 <a href="https://ibb.co/p0hL9PJ"><img src="https://i.ibb.co/X2YCv4S/2-web.png" alt="2-web" border="0"></a>
+
+192.168.11.113
+
+<a href="https://ibb.co/Sxjg6Vq"><img src="https://i.ibb.co/4fqLF4B/2022-04-05-13-03-42.png" alt="2022-04-05-13-03-42" border="0"></a>
