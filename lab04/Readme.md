@@ -23,12 +23,10 @@
 
 Кастомная страница web1
 
-<a href="https://ibb.co/JBWbDbt"><img src="https://i.ibb.co/vwCr0rq/1-web.jpg" alt="1-web" border="0"></a>
+<a href="https://ibb.co/9rsPh5c"><img src="https://i.ibb.co/Vq26x4J/2022-04-05-13-15-44.png" alt="2022-04-05-13-15-44" border="0"></a>
 
 Кастомная страница web2
 
-<a href="https://ibb.co/p0hL9PJ"><img src="https://i.ibb.co/X2YCv4S/2-web.png" alt="2-web" border="0"></a>
+<a href="https://ibb.co/28CfRjz"><img src="https://i.ibb.co/8zfSGjy/2022-04-05-13-15-58.png" alt="2022-04-05-13-15-58" border="0"></a>
 
-192.168.11.113
 
-<a href="https://ibb.co/Sxjg6Vq"><img src="https://i.ibb.co/4fqLF4B/2022-04-05-13-03-42.png" alt="2022-04-05-13-03-42" border="0"></a>
