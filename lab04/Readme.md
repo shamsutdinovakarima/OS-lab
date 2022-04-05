@@ -23,10 +23,10 @@
 
 Кастомная страница web1
 
-<a href="https://ibb.co/9rsPh5c"><img src="https://i.ibb.co/Vq26x4J/2022-04-05-13-15-44.png" alt="2022-04-05-13-15-44" border="0"></a>
+<a href="https://ibb.co/Hh1kTyx"><img src="https://i.ibb.co/xFPRqbf/photo-2022-04-05-13-24-34.jpg" alt="photo-2022-04-05-13-24-34" border="0"></a>
 
 Кастомная страница web2
 
-<a href="https://ibb.co/28CfRjz"><img src="https://i.ibb.co/8zfSGjy/2022-04-05-13-15-58.png" alt="2022-04-05-13-15-58" border="0"></a>
+<a href="https://ibb.co/HxvwGqS"><img src="https://i.ibb.co/gP1qtJ2/photo-2022-04-05-13-24-35.jpg" alt="photo-2022-04-05-13-24-35" border="0"></a>
 
 
