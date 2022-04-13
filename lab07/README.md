@@ -33,6 +33,7 @@
 >зайти на pg1, pg2 под рутом
 
 >patronictl -c /opt/app/patroni/etc/postgresql.yml list
+
 >patronictl -c /opt/app/patroni/etc/postgresql.yml switchover
 ---
 ***Проверка оркестратора репликации Patroni на pg1***
